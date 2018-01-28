@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="lista_programas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="programa" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element fechacreacion="2017-04-13" type="date"/>
+        <xs:element version="1" type="xs:positiveInteger"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
