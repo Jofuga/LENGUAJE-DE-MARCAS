@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet version="1.0" type="text/xsl" href="ej1_xsl.xsl"?>
+<cds>
+	<cd>
+		<titulo>babilonia</titulo>
+		<interprete>revolver</interprete>
+		<anyo>2015</anyo>
+		<estilo>pop-rock</estilo>
+		<precio>23</precio>
+	</cd>
+	<cd>
+		<titulo>Comes</titulo>
+		<interprete>The Liberty</interprete>
+		<anyo>2015</anyo>
+		<estilo>pop</estilo>
+		<precio>13.00</precio>
+	</cd>
+	<cd>
+		<titulo>Wallflower</titulo>
+		<interprete>Diana Krall</interprete>
+		<anyo>2014</anyo>
+		<estilo>pop</estilo>
+		<precio>12.00</precio>
+	</cd>
+</cds>
